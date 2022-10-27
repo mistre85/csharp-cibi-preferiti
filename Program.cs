@@ -4,5 +4,5 @@ string[] cibiPreferiti = { "Pasta", "Pizza" };
 
 for(int i = 0; i < cibiPreferiti.Length; i++)
 {
-
+    //commento
 }
